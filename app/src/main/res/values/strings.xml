@@ -3,10 +3,5 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string-array name="colors">
-        <items>hello</items>
-        <items>bello</items>
-        <items>yello</items>
-    </string-array>
 
 </resources>
